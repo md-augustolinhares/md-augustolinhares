@@ -1,4 +1,4 @@
-# Augusto Linhares
+# Augusto Linhares, MD
 
 Médico e especializando em Inteligência Artificial e Ciência de Dados em Saúde — construindo a ponte entre prática clínica e produtos de IA aplicados à saúde.
 
