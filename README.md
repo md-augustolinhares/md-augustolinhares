@@ -19,14 +19,16 @@ Meu interesse central é usar IA para ampliar acesso à saúde e apoiar decisõe
 - Plantão em enfermaria clínica de pronto-socorro
 - Pós-graduação em Inteligência Artificial e Ciência de Dados em Saúde (em andamento)
 - Construção de um portfólio de projetos aplicados em IA e saúde
-- Desenvolvimento de um assistente de prescrição médica para uso pessoal (projeto privado, em construção)
 
 ---
 
-### Projeto em destaque
+### Projetos em destaque
 
 **[medgemma-lung-lora](https://github.com/md-augustolinhares/medgemma-lung-lora)**
 Fine-tuning de um modelo de IA (MedGemma) para quantificar a proporção pulmão/tórax em radiografias de tórax, validado contra máscara de segmentação de dataset público (erro médio de 1,98%), com julgamento clínico aplicado em cada decisão de metodologia.
+
+**[assistente-prescricao](https://github.com/md-augustolinhares/assistente-prescricao)**
+Sistema web que estrutura e agiliza a prescrição médica hospitalar em plantões de enfermaria clínica, construído a partir de uma dor da própria prática. Não sugere doses nem condutas: apenas formata a prescrição que o médico já decidiu, com modelos clínicos e protocolos pré-configurados (ex.: insulinização, emergência hipertensiva).
 
 ---
 
@@ -68,14 +70,16 @@ My core interest is using AI to expand access to healthcare and support evidence
 - Shift physician in a hospital's clinical ward
 - Postgraduate program in Artificial Intelligence and Health Data Science (in progress)
 - Building a portfolio of applied AI-in-health projects
-- Developing a medical prescription assistant for personal use (private project, in progress)
 
 ---
 
-### Featured project
+### Featured projects
 
 **[medgemma-lung-lora](https://github.com/md-augustolinhares/medgemma-lung-lora)**
 Fine-tuning of an AI model (MedGemma) to quantify the lung-to-thorax ratio in chest X-rays, validated against a public dataset's segmentation mask (1.98% mean error), with clinical judgment applied to every methodology decision.
+
+**[assistente-prescricao](https://github.com/md-augustolinhares/assistente-prescricao)**
+Web app that structures and speeds up hospital ward prescriptions during clinical shifts, built out of a pain point from my own practice. It doesn't suggest doses or clinical conduct — it only formats the prescription the physician has already decided on, with pre-configured clinical templates and protocols (e.g., insulin therapy, hypertensive emergency).
 
 ---
 
