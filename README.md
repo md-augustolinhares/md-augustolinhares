@@ -1,4 +1,4 @@
-# Augusto Linhares
+# Augusto Linhares, MD
 
 🇧🇷 Português (abaixo) · 🇺🇸 [English version](#english)
 
