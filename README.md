@@ -1,4 +1,4 @@
-# Augusto Linhares, MD
+# Augusto Linhares
 
 Médico e especializando em Inteligência Artificial e Ciência de Dados em Saúde — construindo a ponte entre prática clínica e produtos de IA aplicados à saúde.
 
@@ -6,7 +6,7 @@ Médico e especializando em Inteligência Artificial e Ciência de Dados em Saú
 
 ### Sobre
 
-Formado em Medicina em 2025, atuo hoje como médico plantonista e, em paralelo, desenvolvo projetos aplicados de IA em saúde. Curso a Pós-Graduação em Inteligência Artificial e Ciência de Dados em Saúde no Instituto de Ensino e Pesquisa do Hospital Sírio-Libanês, e participo da Formação Médicos Híbridos (Beyond Health BR).
+Formado em Medicina em 2025, atuo hoje como médico plantonista em enfermaria clínica de pronto-socorro e, em paralelo, desenvolvo projetos aplicados de IA em saúde. Curso a Pós-Graduação em Inteligência Artificial e Ciência de Dados em Saúde no Instituto de Ensino e Pesquisa do Hospital Sírio-Libanês, e participo da mentoria Médicos Híbridos (Beyond Health BR).
 
 Meu interesse central é usar IA para ampliar acesso à saúde e apoiar decisões clínicas com evidência, sem perder de vista os limites e os riscos de levar tecnologia para dentro do cuidado real com pacientes.
 
@@ -14,24 +14,29 @@ Meu interesse central é usar IA para ampliar acesso à saúde e apoiar decisõe
 
 ### Agora
 
+- Plantão em enfermaria clínica de pronto-socorro
 - Pós-graduação em Inteligência Artificial e Ciência de Dados em Saúde (em andamento)
 - Construção de um portfólio de projetos aplicados em IA e saúde
+- Desenvolvimento de um assistente de prescrição médica para uso pessoal (projeto privado, em construção)
 
 ---
 
 ### Projeto em destaque
 
 **[medgemma-lung-lora](https://github.com/md-augustolinhares/medgemma-lung-lora)**
-Avaliação de um modelo de IA (MedGemma) aplicado à quantificação de superfície pulmonar em radiografias de tórax — conduzido do ponto de vista de quem usa e valida clinicamente a ferramenta, não só de quem escreve o código.
+Fine-tuning de um modelo de IA (MedGemma) para quantificar a proporção pulmão/tórax em radiografias de tórax, validado contra máscara de segmentação de dataset público (erro médio de 1,98%), com julgamento clínico aplicado em cada decisão de metodologia.
 
 ---
 
 ### Áreas de interesse e ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-4B8BBE?style=flat)
 ![Healthcare AI](https://img.shields.io/badge/Healthcare%20AI-0A66C2?style=flat)
 ![Data Governance](https://img.shields.io/badge/Governança%20de%20Dados%20(LGPD)-2E5C88?style=flat)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 ---
 
