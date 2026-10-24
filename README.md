@@ -40,6 +40,9 @@ Fine-tuning de um modelo de IA (MedGemma) para quantificar a proporção pulmão
 **[assistente-prescricao](https://github.com/md-augustolinhares/assistente-prescricao)** · [caso no portfólio](https://md-augustolinhares.github.io/casos/assistente-prescricao/)
 Aplicativo web que digitaliza meu fluxo de prescrição em plantões hospitalares, antes feito em planilha. Não sugere doses nem condutas: apenas formata a prescrição que o médico já decidiu, com modelos clínicos pré-configurados por protocolo (ex.: insulinização, emergência hipertensiva). Construído com programação assistida por IA.
 
+**[cfm-normas](https://github.com/md-augustolinhares/cfm-normas)** · [caso no portfólio](https://md-augustolinhares.github.io/casos/cfm-normas/)
+Acervo aberto das normas do Conselho Federal de Medicina (resoluções, pareceres e recomendações de 2020 a 2026; 331 normas em 24/10/2026), em Markdown, com status de vigência e temas, para leitura por profissionais de saúde e por agentes de IA. Inclui uma trilha de 53 normas sobre IA, proteção de dados e telemedicina. A atualização semanal automática está configurada, ainda sem execução registrada. Não é assessoria jurídica. Construído com programação assistida por IA.
+
 ---
 
 ### Áreas
@@ -62,6 +65,7 @@ Aplicativo web que digitaliza meu fluxo de prescrição em plantões hospitalare
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFB000?style=flat)
 ![LoRA](https://img.shields.io/badge/LoRA-6E56CF?style=flat)
 ![Gradio](https://img.shields.io/badge/Gradio-F97316?style=flat)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
 ---
 
@@ -112,6 +116,9 @@ Fine-tuning of an AI model (MedGemma) to quantify the lung-to-thorax ratio in ch
 **[assistente-prescricao](https://github.com/md-augustolinhares/assistente-prescricao)** · [case in the portfolio](https://md-augustolinhares.github.io/en/cases/prescription-assistant/)
 Web app that digitizes my own prescription workflow during hospital shifts, previously done in a spreadsheet. It does not suggest doses or clinical conduct: it only formats the prescription the physician has already decided, with clinical templates pre-set by protocol (e.g., insulin therapy, hypertensive emergency). Built with AI-assisted programming.
 
+**[cfm-normas](https://github.com/md-augustolinhares/cfm-normas)** · [case in the portfolio](https://md-augustolinhares.github.io/en/cases/cfm-normas/)
+Open archive of the norms of Brazil's Federal Council of Medicine (resolutions, opinions and recommendations from 2020 to 2026; 331 norms on 24/10/2026), in Markdown, with validity status and topics, built to be read by health professionals and by AI agents. It includes a track of 53 norms on AI, data protection and telemedicine. The weekly automatic update is set up, with no run recorded yet. Not legal advice. Built with AI-assisted programming.
+
 ---
 
 ### Areas
@@ -134,6 +141,7 @@ Web app that digitizes my own prescription workflow during hospital shifts, prev
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFB000?style=flat)
 ![LoRA](https://img.shields.io/badge/LoRA-6E56CF?style=flat)
 ![Gradio](https://img.shields.io/badge/Gradio-F97316?style=flat)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
 ---
 
